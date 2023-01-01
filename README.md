@@ -1,6 +1,6 @@
 # Sentimental Analysis
 
-Author:  Alexandra Pfleegor, Charles Mcmanus, Jaleel Cole, Nigel Itchon, Rosie Gianan, Kellimarie Cooper
+Author:  Rosie Gianan, Alexandra Pfleegor, Charles Mcmanus, Jaleel Cole, Nigel Itchon,  Kellimarie Cooper
 
 # Description
 
